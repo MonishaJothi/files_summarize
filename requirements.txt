@@ -5,5 +5,3 @@ docx
 exceptions
 pandas
 pptx
-bs4
-PIL
