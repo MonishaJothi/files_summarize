@@ -2,3 +2,9 @@ streamlit
 groq
 pypdf
 docx 
+exceptions
+pandas
+pptx
+bs4
+PIL
+pytesseract
