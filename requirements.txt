@@ -7,4 +7,3 @@ pandas
 pptx
 bs4
 PIL
-pytesseract
